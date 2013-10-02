@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<title><![CDATA[Mise à jour]]></title>
+	<author><![CDATA[Cyril Maguire]]></author>
+	<version>1.6</version>
+	<date>02/10/2013</date>
+	<site>http://www.ecyseo.net</site>
+	<description><![CDATA[Enregistre la date de mise à jour des articles tout en conservant la date de création. Sur une idée de SapinTremblant et Stéphane F.]]></description>
+	<requirements></requirements>
+</document>
